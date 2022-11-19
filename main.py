@@ -1,4 +1,1 @@
-print('Hello world')
-print('Hi')
-print('d')
-print(3)
+print('My first git-repo')
